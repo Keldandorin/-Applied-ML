@@ -1,2 +1,2 @@
-# -Applied-ML
-Tillämpad maskininlärning HT 2022
+# Tillämpad maskininlärning HT 2022
+
